@@ -5,7 +5,7 @@ export default function Header() {
       <nav className="navcontainer">
         <div>
           <img
-            src="https://cdn-icons-png.flaticon.com/512/5229/5229550.png" width={30}  height={30} alt="image"/>
+            src="https://cdn-icons-png.flaticon.com/512/5229/5229550.png" width={30}  height={30} alt="logo3.png"/>
         </div>
         <div>
           <button className="navitem">
